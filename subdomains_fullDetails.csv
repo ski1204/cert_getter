@@ -1,0 +1,218 @@
+Domain,IP,Country,Organization,AS,OSH,Subdomains,First seen
+amp.overstock.com,173.241.154.52,United States,Overstock.com,25655,1,0,Aug 2017
+api.overstock.com,151.101.37.59,Netherlands,Fastly,54113,2,0,Aug 2017
+chase.overstock.com,67.110.105.197,United States,Overstock.com,25655,1,0,Aug 2017
+homes.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+gear.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+sentry.overstock.com,173.241.154.142,United States,Overstock.com,25655,1,0,Aug 2017
+test.overstock.com,,,,,,3,Aug 2017
+partners.overstock.com,67.110.105.190,United States,Overstock.com,25655,3,0,Aug 2017
+funnel.overstock.com,173.241.154.150,United States,Overstock.com,25655,39,0,Aug 2017
+linksynergy.overstock.com,34.198.100.55,United States,Amazon.com, Inc.,14618,5,0,Nov 2017
+affiliateprogram.overstock.com,,,,,,0,Sep 2018
+ozonemobile.overstock.com,173.241.144.127,United States,Overstock.com,25655,3,0,Aug 2017
+ozone.overstock.com,173.241.144.127,United States,Overstock.com,25655,3,0,Aug 2017
+funnel.www.overstock.com,173.241.154.150,United States,Overstock.com,25655,39,0,Aug 2017
+api.auctions.overstock.com,,,,,,0,Sep 2018
+stage.overstock.com,,,,,,0,Sep 2018
+mywebex.overstock.com,173.241.145.110,United States,Overstock.com,25655,1,0,Sep 2017
+obox02.overstock.com,,,,,,0,Dec 2017
+firstnational.overstock.com,,,,,,1,Sep 2018
+community.overstock.com,67.110.105.185,United States,Overstock.com,25655,2,0,Aug 2017
+autodiscover.overstock.com,173.241.144.34,United States,Overstock.com,25655,3,0,Aug 2017
+stats.overstock.com,173.241.154.155,United States,Overstock.com,25655,15,0,Aug 2017
+hostmaster.overstock.com,,,,,,0,Aug 2017
+seconnect.overstock.com,173.241.153.10,United States,Overstock.com,25655,1,0,Dec 2017
+mail70.sales.overstock.com,67.110.107.70,United States,Overstock.com,25655,1,0,Jan 2018
+partneroasis.overstock.com,173.241.154.99,United States,Overstock.com,25655,1,0,Sep 2018
+mail78.sales.overstock.com,67.110.107.78,United States,Overstock.com,25655,1,0,Oct 2018
+dns02.overstock.com,173.241.153.32,United States,Overstock.com,25655,1,0,Aug 2017
+support.overstock.com,173.241.145.44,United States,Overstock.com,25655,1,0,Aug 2017
+micromobile.overstock.com,173.241.145.56,United States,Overstock.com,25655,7,0,Aug 2017
+m.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+xen.overstock.com,65.116.116.71,United States,Overstock.com,25655,1,0,Aug 2017
+news.overstock.com,63.76.216.20,United States,Cognizant Trizetto Software Group, INC.,26959,4,0,Aug 2017
+vendors.overstock.com,67.110.105.190,United States,Overstock.com,25655,3,0,Aug 2017
+hotels-fe1.overstock.com,,,,,,0,Mar 2018
+api-ipv4.overstock.com,,,,,,0,Mar 2018
+post19.sales.overstock.com,67.110.106.126,United States,Overstock.com,25655,1,0,Oct 2018
+cp.overstock.com,173.241.154.29,United States,Overstock.com,25655,1,0,Aug 2017
+origin-www.overstock.com,173.241.154.15,United States,Overstock.com,25655,5,0,Aug 2017
+reverse.overstock.com,67.110.107.129,United States,Overstock.com,25655,1,0,Aug 2017
+ocprodinspanaly.overstock.com,,,,,,0,Sep 2018
+post17.sales.overstock.com,67.110.106.124,United States,Overstock.com,25655,1,0,Oct 2018
+officewebapps.overstock.com,173.241.145.56,United States,Overstock.com,25655,7,0,Aug 2017
+um.overstock.com,173.241.144.18,United States,Overstock.com,25655,1,0,Aug 2017
+bp.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+secure.newcars.overstock.com,66.172.31.157,United States,Evocative, Inc.,11051,2,0,Sep 2017
+occwad01.overstock.com,,,,,,0,Sep 2017
+post20.sales.overstock.com,67.110.106.127,United States,Overstock.com,25655,1,0,Jan 2018
+mail39.sales.overstock.com,173.241.155.39,United States,Overstock.com,25655,1,0,Jan 2018
+salesmanager.overstock.com,173.241.154.39,United States,Overstock.com,25655,1,0,Feb 2018
+b2b.firstnational.overstock.com,,,,,,0,Sep 2018
+omx02.overstock.com,,,,,,0,Oct 2018
+auctions.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,4,Aug 2017
+lyncdiscover.overstock.com,52.112.194.78,Netherlands,Microsoft Corporation,8075,4202,0,Aug 2017
+ns3.overstock.com,173.241.145.14,United States,Overstock.com,25655,1,0,Aug 2017
+newcars.overstock.com,107.154.251.56,United States,Incapsula Inc,19551,5,1,Sep 2017
+ozoneduo.overstock.com,173.241.144.127,United States,Overstock.com,25655,3,0,Aug 2017
+omproxy01.overstock.com,,,,,,0,Sep 2018
+xnagpeer-dc.overstock.com,,,,,,0,Oct 2018
+otwebservice.overstock.com,67.110.105.240,United States,Overstock.com,25655,1,0,Oct 2018
+k8s2363.overstock.com,173.241.154.64,United States,Overstock.com,25655,1,0,Nov 2018
+secureauth.overstock.com,173.241.145.57,United States,Overstock.com,25655,1,0,Aug 2017
+wave.overstock.com,216.58.212.211,United States,Google LLC,15169,22576,0,Aug 2017
+services.overstock.com,173.241.154.138,United States,Overstock.com,25655,1,0,Aug 2017
+sos.overstock.com,2.21.162.78,,,,24,0,Aug 2017
+ns04.overstock.com,65.116.113.62,United States,Overstock.com,25655,1,0,Aug 2017
+salon.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+im.overstock.com,65.116.113.19,United States,Overstock.com,25655,1,0,Aug 2017
+ars.overstock.com,173.241.154.155,United States,Overstock.com,25655,15,0,Aug 2017
+usedcars.overstock.com,107.154.251.56,United States,Incapsula Inc,19551,5,0,Aug 2017
+clearpass.overstock.com,,,,,,0,Sep 2018
+securemail.overstock.com,173.241.145.90,United States,Overstock.com,25655,3,0,Aug 2017
+livechat.overstock.com,173.241.154.15,United States,Overstock.com,25655,5,0,Aug 2017
+guides.overstock.com,104.199.118.4,United States,Google LLC,15169,5,0,Aug 2017
+mobile.overstock.com,173.241.154.150,United States,Overstock.com,25655,39,0,Aug 2017
+xnag.overstock.com,,,,,,0,Jan 2018
+post06.sales.overstock.com,173.241.153.206,United States,Overstock.com,25655,1,0,Jan 2018
+liverex.overstock.com,173.241.154.98,United States,Overstock.com,25655,1,0,Mar 2018
+conference.overstock.com,,,,,,0,Aug 2018
+collab-edge._tls.overstock.com,,,,,,0,Aug 2018
+ns02.overstock.com,,,,,,0,Oct 2018
+sales.overstock.com,173.241.154.144,United States,Overstock.com,25655,2,17,Aug 2017
+customer.overstock.com,67.110.105.146,United States,Overstock.com,25655,1,0,Aug 2017
+hmp.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+mx01.overstock.com,67.110.104.12,United States,Overstock.com,25655,1,0,Aug 2017
+occwms01.overstock.com,,,,,,0,Sep 2017
+vcsgw.overstock.com,173.241.145.19,United States,Overstock.com,25655,1,0,Aug 2018
+tt11.overstock.com,,,,,,0,Sep 2018
+vdm.overstock.com,65.116.113.70,United States,Overstock.com,25655,1,0,Sep 2018
+vacations.overstock.com,173.241.154.95,United States,Overstock.com,25655,2,0,Sep 2018
+mrocket01.overstock.com,,,,,,0,Oct 2018
+3dstudio.overstock.com,,,,,,0,May 2019
+jira.overstock.com,173.241.145.56,United States,Overstock.com,25655,7,0,Aug 2017
+insurance.overstock.com,173.241.154.150,United States,Overstock.com,25655,39,0,Aug 2017
+cdn.overstock.com,2.16.186.73,,,,211,0,Aug 2017
+mail76.sales.overstock.com,67.110.107.76,United States,Overstock.com,25655,1,0,Jan 2018
+legacy.overstock.com,,,,,,0,Aug 2018
+3dpipeline.overstock.com,,,,,,0,May 2019
+odds.overstock.com,173.241.145.54,United States,Overstock.com,25655,4,0,Aug 2017
+investors.overstock.com,92.122.122.160,,,,4372,0,Aug 2017
+li.overstock.com,92.122.122.137,,,,4390,0,Aug 2017
+dyn.overstock.com,92.122.122.160,,,,4372,0,Aug 2017
+si.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+sale.overstock.com,153.69.140.111,United States,NCR Corporation,13806,1,0,Aug 2017
+secure.cars.overstock.com,,,,,,0,Sep 2017
+obox.overstock.com,,,,,,0,Dec 2017
+omproxy02.overstock.com,,,,,,0,Sep 2018
+post16.sales.overstock.com,67.110.106.123,United States,Overstock.com,25655,1,0,Oct 2018
+snow.overstock.com,173.241.145.120,United States,Overstock.com,25655,1,0,Aug 2017
+webmail.overstock.com,65.116.113.32,United States,Overstock.com,25655,1,0,Aug 2017
+mp3.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+omx01.overstock.com,,,,,,0,Feb 2018
+ocexhub01.overstock.com,,,,,,0,Sep 2018
+secure.overstock.com,65.116.113.12,United States,Overstock.com,25655,1,0,Aug 2017
+origin-api.overstock.com,173.241.154.33,United States,Overstock.com,25655,2,0,Aug 2017
+cars.overstock.com,107.154.251.56,United States,Incapsula Inc,19551,5,1,Aug 2017
+fb.overstock.com,67.110.104.152,United States,Overstock.com,25655,1,0,Aug 2017
+omnivis.overstock.com,,,,,,0,Mar 2018
+ssgp.overstock.com,173.241.156.6,United States,Overstock.com,25655,1,0,Jan 2019
+auction.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+ftptest.overstock.com,173.241.153.161,United States,Overstock.com,25655,3,0,Aug 2017
+msn.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+financehub.overstock.com,173.241.154.6,United States,Overstock.com,25655,1,0,Nov 2017
+jamf.overstock.com,173.241.145.49,United States,Overstock.com,25655,2,0,Sep 2018
+xnagpeer-sea.overstock.com,,,,,,0,Oct 2018
+csuat.overstock.com,,,,,,0,Oct 2018
+mail81.sales.overstock.com,67.110.107.81,United States,Overstock.com,25655,1,0,Oct 2018
+3dview.overstock.com,,,,,,0,May 2019
+ads.overstock.com,173.241.154.3,United States,Overstock.com,25655,1,0,Aug 2017
+mob.overstock.com,173.241.145.130,United States,Overstock.com,25655,1,0,Aug 2017
+www.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,1,Aug 2017
+wholesale.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+pets.overstock.com,45.60.87.227,United States,Incapsula Inc,19551,11,0,Aug 2017
+jewelry.overstock.com,2.21.162.78,,,,24,0,Aug 2017
+_tls.overstock.com,,,,,,1,Aug 2018
+ocsascm02.overstock.com,,,,,,0,Sep 2018
+ncgp.overstock.com,128.136.69.236,United States,Peak 10,19271,1,0,Dec 2018
+media.overstock.com,92.122.122.139,,,,3177,0,Aug 2017
+ns01.overstock.com,,,,,,0,Oct 2018
+sento.auctions.overstock.com,67.110.104.170,United States,Overstock.com,25655,1,0,Oct 2018
+gp.overstock.com,173.241.146.5,United States,Overstock.com,25655,1,0,Dec 2018
+ods.overstock.com,173.241.145.54,United States,Overstock.com,25655,4,0,Aug 2017
+mail.overstock.com,173.241.145.90,United States,Overstock.com,25655,3,0,Aug 2017
+beta.overstock.com,173.241.144.121,United States,Overstock.com,25655,1,0,Aug 2017
+dev.overstock.com,,,,,,0,Sep 2017
+shopping-a.test.overstock.com,173.241.144.23,United States,Overstock.com,25655,1,0,Jan 2018
+mrocket.overstock.com,,,,,,0,Oct 2018
+vehicleprotection.overstock.com,173.241.154.63,United States,Overstock.com,25655,1,0,Dec 2018
+r.overstock.com,35.163.204.177,United States,Amazon.com, Inc.,16509,9,0,Aug 2017
+hybrid.overstock.com,173.241.145.60,United States,Overstock.com,25655,1,0,Aug 2017
+pulse.overstock.com,173.241.145.43,United States,Overstock.com,25655,1,0,Aug 2017
+cdn3.overstock.com,93.184.220.20,United Kingdom,MCI Communications Services, Inc. d/b/a Verizon Business,15133,2338,0,Aug 2017
+beeswax.overstock.com,54.192.197.74,United States,Amazon.com, Inc.,16509,4851,0,Mar 2018
+xnagpeer-la.overstock.com,,,,,,0,Oct 2018
+vi.overstock.com,173.241.145.56,United States,Overstock.com,25655,7,0,Aug 2017
+micro.overstock.com,173.241.145.56,United States,Overstock.com,25655,7,0,Aug 2017
+travel.overstock.com,173.241.154.150,United States,Overstock.com,25655,39,0,Aug 2017
+sip.overstock.com,52.112.192.11,Netherlands,Microsoft Corporation,8075,4541,0,Aug 2017
+occwms02.overstock.com,,,,,,0,Sep 2017
+hotels-fe2.overstock.com,,,,,,0,Mar 2018
+reporthub.overstock.com,173.241.145.56,United States,Overstock.com,25655,7,0,Aug 2017
+html.overstock.com,92.122.122.161,,,,3683,0,Aug 2017
+obox01.overstock.com,,,,,,0,Dec 2017
+coinbase-callback.overstock.com,173.241.154.32,United States,Overstock.com,25655,1,0,Feb 2018
+t.overstock.com,173.241.154.8,United States,Overstock.com,25655,1,0,Mar 2018
+promote.overstock.com,,,,,,0,Aug 2018
+git.overstock.com,173.241.144.48,United States,Overstock.com,25655,1,0,Aug 2017
+jabber.overstock.com,173.241.145.10,United States,Overstock.com,25655,1,0,Aug 2017
+help.overstock.com,129.152.38.163,United States,Oracle Corporation,7160,2,0,Aug 2017
+cdn2.overstock.com,92.122.122.139,,,,3177,0,Aug 2017
+ocaccel03.overstock.com,,,,,,0,Dec 2017
+help.auctions.overstock.com,,,,,,0,Dec 2017
+hotels.overstock.com,,,,,,0,Mar 2018
+omptrans.email.overstock.com,12.130.138.83,United States,Responsys Inc.,21621,1,0,Oct 2018
+externalnotesservice.overstock.com,67.110.105.172,United States,Overstock.com,25655,1,0,Oct 2018
+post18.sales.overstock.com,67.110.106.125,United States,Overstock.com,25655,1,0,Oct 2018
+gp-sxl.overstock.com,185.52.92.74,Ireland,Fastcom Broadband Limited,39449,1,0,Apr 2019
+polyaxon.overstock.com,,,,,,0,May 2019
+realestate.overstock.com,173.241.154.150,United States,Overstock.com,25655,39,0,Aug 2017
+errors.overstock.com,63.76.216.10,United States,Cognizant Trizetto Software Group, INC.,26959,5,0,Aug 2017
+s.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+occwad02.overstock.com,,,,,,0,Sep 2017
+post12.sales.overstock.com,173.241.153.212,United States,Overstock.com,25655,1,0,Jan 2018
+xpay.test.overstock.com,173.241.144.98,United States,Overstock.com,25655,1,1,Jan 2018
+securelogin.overstock.com,,,,,,0,Sep 2018
+return.sales.overstock.com,,,,,,0,Oct 2018
+blog.overstock.com,173.241.154.150,United States,Overstock.com,25655,39,0,Aug 2017
+emailtracking.overstock.com,173.241.154.9,United States,Overstock.com,25655,1,0,Mar 2018
+omp.email.overstock.com,12.130.136.147,United States,Responsys Inc.,21621,1,0,Mar 2018
+tigger.overstock.com,,,,,,0,Mar 2018
+forums.auctions.overstock.com,,,,,,0,Sep 2018
+olife.overstock.com,173.241.145.13,United States,Overstock.com,25655,3,0,Aug 2017
+dns01.overstock.com,173.241.153.31,United States,Overstock.com,25655,1,0,Aug 2017
+cache.overstock.com,92.122.122.160,,,,4372,0,Aug 2017
+products.overstock.com,67.110.105.194,United States,Overstock.com,25655,1,0,Aug 2017
+outlook.overstock.com,173.241.145.90,United States,Overstock.com,25655,3,0,Aug 2017
+somnivis.overstock.com,192.243.255.191,United States,Adobe Systems Inc.,15224,2,0,Sep 2017
+adwebex.overstock.com,,,,,,0,Sep 2017
+post02.sales.overstock.com,173.241.153.202,United States,Overstock.com,25655,1,0,Jan 2018
+extsvc01.xpay.test.overstock.com,173.241.144.64,United States,Overstock.com,25655,1,0,Jan 2018
+email.overstock.com,12.130.131.234,United States,Responsys Inc.,21621,1,3,Aug 2017
+rd.sales.overstock.com,173.241.154.144,United States,Overstock.com,25655,2,0,Aug 2017
+vpn1.overstock.com,65.116.113.11,United States,Overstock.com,25655,1,0,Aug 2017
+ftp.overstock.com,173.241.153.161,United States,Overstock.com,25655,3,0,Aug 2017
+yahoo.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+mail2.overstock.com,,,,,,0,Mar 2018
+analytics.overstock.com,173.241.145.54,United States,Overstock.com,25655,4,0,Aug 2017
+affiliates.overstock.com,67.110.105.190,United States,Overstock.com,25655,3,0,Aug 2017
+openvpn.overstock.com,49.2.123.56,,,,667705,0,Aug 2017
+www.email.overstock.com,,,,,,0,Mar 2018
+returns.sales.overstock.com,,,,,,0,Oct 2018
+sapidev.overstock.com,65.116.116.73,United States,Overstock.com,25655,1,0,Oct 2018
+origin-pets.overstock.com,173.241.154.145,United States,Overstock.com,25655,2,0,Aug 2017
+planet.overstock.com,104.68.96.64,United States,Akamai Technologies, Inc.,16625,21,0,Aug 2017
+images.overstock.com,92.122.122.160,,,,4372,0,Aug 2017
+connect.overstock.com,,,,,,0,Dec 2017
+post10.sales.overstock.com,173.241.153.210,United States,Overstock.com,25655,1,0,Jan 2018

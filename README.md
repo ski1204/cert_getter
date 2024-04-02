@@ -1,7 +1,7 @@
 <h1>Automated Certificate Expiration Checker</h1>
 
 
-The goal of this challenge is to build a tool that can be used to automate identification of expired and soon-to-be expired HTTPS certificates associated with Overstock.com.
+The goal of this tool is that it can be used to automate identification of expired and soon-to-be expired HTTPS certificates associated with a company.
 
 
 
